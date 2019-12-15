@@ -1,0 +1,23 @@
+{
+  "name": "blockchain",
+  "version": "1.0.0",
+  "description": "Implementation of BlockChain in JavaScript",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arjunkhetia/BlockChain.git"
+  },
+  "author": "Arjun Khetia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arjunkhetia/BlockChain/issues"
+  },
+  "homepage": "https://github.com/arjunkhetia/BlockChain#readme",
+  "dependencies": {
+    "object-hash": "^2.0.1"
+  }
+}
